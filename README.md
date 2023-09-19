@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jtalladay
-- 👀 I’m interested in generative code, creative coding, music software
-- 🌱 I’m currently learning computer science, Java, Python
-- 💞️ I’m looking to collaborate on noob shit
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning computer science, Java, python
 - 📫 talladay@email.uscupstate.edu
 
 <!---
